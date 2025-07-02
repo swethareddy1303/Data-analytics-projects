@@ -1,0 +1,2 @@
+agent,total_responses,positive_sentiment_pct,negative_sentiment_pct,politeness_score,empathy_score
+sindhu,15,0.47,0.53,0.27,0.47
