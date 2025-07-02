@@ -1,0 +1,282 @@
+User-ID,Location,Age
+2,"stockton, california, usa",18
+8,"timmins, ontario, canada",
+9,"germantown, tennessee, usa",
+10,"albacete, wisconsin, spain",26
+12,"fort bragg, california, usa",
+14,"mediapolis, iowa, usa",
+16,"albuquerque, new mexico, usa",
+17,"chesapeake, virginia, usa",
+19,"weston, ,",14
+20,"langhorne, pennsylvania, usa",19
+22,"erfurt, thueringen, germany",
+26,"bellevue, washington, usa",
+32,"portland, oregon, usa",
+39,"cary, north carolina, usa",
+42,"appleton, wisconsin, usa",17
+44,"black mountain, north carolina, usa",51
+51,"renton, washington, usa",34
+53,"tacoma, washington, usa",
+56,"cheyenne, wyoming, usa",24
+64,"lyon, rhone, france",32
+67,"framingham, massachusetts, usa",43
+68,"montreal, quebec, canada",
+69,"vancouver, british columbia, canada",
+70,"rochester, new york, usa",44
+73,"wentzville, missouri, usa",
+75,"long beach, california, usa",37
+77,"vancouver, british columbia, canada",
+78,"oakland, california, usa",18
+79,"ottawa, ontario, canada",20
+81,"santa cruz, california, usa",
+82,"del mar, california, usa",
+83,"eugene, oregon, usa",
+85,"london, england, united kingdom",41
+86,"los angeles, california, usa",
+87,"richardson, texas, usa",
+88,"fayetteville, georgia, usa",
+92,"castellar del valles, barcelona, spain",20
+95,"grand island, new york, usa",
+97,"mechanicsburg, pennsylvania, usa",
+99,"franktown, colorado, usa",42
+102,"barcelona, n/a, spain",
+107,"lethbridge, alberta, canada",
+109,"muncie, indiana, usa",20
+110,"peoira, illinois, usa",
+114,"ligonier, pennsylvania, usa",57
+125,"lansing, michigan, usa",49
+132,"silver spring, maryland, usa",38
+133,"jacksonville, florida, usa",45
+135,"berkshire, new york, usa",
+139,"baltimore, maryland, usa",35
+141,"darien, new york, usa",
+144,"cape girardeau, missouri, usa",62
+151,"darwin, northern territory, australia",
+160,"almada, n/a, portugal",20
+162,"newark, delaware, usa",
+165,"olympia, washington, usa",62
+176,"london, london, united kingdom",34
+178,"rexford, new york, usa",28
+183,"porto, porto, portugal",27
+185,"baton rouge, louisiana, usa",17
+190,"wezembeek-oppem, brussels, belgium",33
+193,"mumbai, maharashtra, india",23
+199,"austin, texas, usa",38
+202,"ottawa, ontario, canada",28
+204,"turner, oregon, usa",15
+207,"west bend, wisconsin, usa",
+212,"manila, n/a, philippines",21
+215,"port alberni, british columbia, canada",20
+217,"spencer, massachusetts, usa",
+224,"strafford, missouri, usa",
+226,"new york, new york, usa",
+228,"ann arbor, michigan, usa",41
+230,"ny, new york, usa",
+232,"mumbai, maharashtra, india",16
+236,"s. pasadena, california, usa",
+237,"plymouth, minnesota, usa",27
+241,"auburn, alabama, usa",
+242,"neuffen, baden-wuerttemberg, germany",37
+243,"arden hills, minnesota, usa",
+244,"college station, texas, usa",
+247,"zografou, athens, greece",23
+250,"minneapolis, minnesota, usa",25
+254,"minneapolis, minnesota, usa",24
+256,"boston, massachusetts, usa",
+257,"quit, quit, quit",
+272,"walla walla, washington, usa",20
+273,"snohomish, washington, usa",
+278,"chicago, illinois, usa",21
+289,"tampa, florida, usa",15
+291,"ft. collins, colorado, usa",
+300,"newport news, virginia, usa",
+302,"capitola, california, usa",53
+306,"boston, massachusetts, usa",
+310,"barcelona, n/a, spain",26
+311,"ridderkerk, n/a, netherlands",34
+313,"rutherford, new jersey, usa",
+323,"seattle, washington, usa",23
+326,"parkville, missouri, usa",
+332,"lake oswego, oregon, usa",59
+334,"jyväskylä, n/a, finland",27
+337,"málaga, n/a, spain",17
+338,"minneapolis, minnesota, usa",
+339,"tampere, pirkanmaa, finland",20
+343,"mesa, arizona, usa",
+345,"columbia, tennessee, usa",27
+356,"leesburg, virginia, usa",
+361,"premià de dalt, barcelona, spain",25
+362,"thunder bay, ontario, canada",63
+367,"culver city, california, usa",45
+372,"bamberg, bayern, germany",22
+376,"fishers, indiana, usa",35
+383,"carmichael, california, usa",
+384,"bucuresti, n/a, romania",23
+387,"charity, missouri, usa",17
+388,"nashville, tennessee, usa",35
+392,"barcelona, catalunya, spain",44
+393,"brighton, east sussex, united kingdom",24
+400,"st. louis, missouri, usa",
+406,"madrid, madrid, spain",37
+408,"mountain view, california, usa",17
+413,"naperville, illinois, usa",17
+422,"edmonton, alberta, canada",23
+424,"portland, oregon, usa",29
+430,"silver spring, maryland, usa",
+431,"ridgway, pennsylvania, usa",40
+432,"kansas city, missouri, usa",
+433,"smock, pennsylvania, usa",48
+439,"tiburon, california, usa",
+440,"brookfield, wisconsin, usa",16
+441,"spokane, washington, usa",
+444,"sweet home, oregon, usa",40
+446,"chevy chase, dc, usa",
+447,"medford, new jersey, usa",
+453,"charleston, west virginia, usa",
+460,"roma, italy, italy",
+463,"rouse hill, new south wales, australia",20
+469,"corona, california, usa",18
+472,"livingston, new jersey, usa",
+475,"vancouver, british columbia, canada",34
+476,"rome, new york, usa",
+479,"iowa city, iowa, usa",
+486,"portland, oregon, usa",31
+487,"houston, texas, usa",
+489,"cape girardeau, missouri, usa",
+493,"manhattan, kansas, usa",29
+494,"parry sound, ontario, canada",
+496,"west salem, wisconsin, usa",51
+499,"la verne, california, usa",62
+500,"san antonio, texas, usa",17
+501,"richmond, virginia, usa",
+503,"el centro, california, usa",40
+505,"washington, dc, usa",51
+507,"dumas, arkansas, usa",
+508,"portland, oregon, usa",29
+512,"winter springs, florida, usa",58
+513,"savannah, georgia, usa",
+516,"seattle, washington, usa",
+523,"bozeman, montana, usa",19
+537,"davis, california,",
+538,"perryville, missouri, usa",26
+542,"fort worth, texas, usa",
+547,"presque isle, maine, usa",
+559,"pulaski, virginia, usa",
+565,"franklin, tennessee, usa",48
+566,"springfield, illinois, usa",
+567,"spokane, washington, usa",
+276746,"fort worth, ,",
+276755,"frankfurt am main, hessen, germany",32
+276796,"manchester, england, united kingdom",21
+276925,"barcelona, barcelona, spain",22
+276939,"poissy, yvelines, france",23
+276953,"petaling jaya, selangor, malaysia",18
+276954,"freiburg, baden-wuerttemberg, germany",43
+276986,"haysville, kansas, usa",28
+276994,"wien, wien, austria",25
+277042,"hiram, georgia, usa",
+277072,"london, england, united kingdom",
+277096,"kingston, ontario, canada",57
+277123,"hummelstown, ,",60
+277157,"garden grove, california, usa",70
+277168,"palestine, texas, usa",37
+277187,"st. louis, missouri, usa",47
+277195,"san francisco, california, usa",54
+277197,"allendale, michigan, usa",
+277203,"olympia, washington, usa",8
+277212,"framingham, massachusetts, usa",
+277246,"skillman, new jersey, usa",
+277315,"bloomingont, indiana, usa",33
+277363,"norcross, georgia, usa",34
+277378,"vancouver, british columbia, canada",33
+277411,"colorado springs, colorado, usa",48
+277413,"norfolk, virginia, usa",56
+277427,"gilbert, arizona, usa",48
+277439,"turner, oregon, usa",65
+277462,"vancouver, british columbia, canada",
+277478,"schiedam, zuid-holland, netherlands",31
+277517,"doylestown, pennsylvania, usa",
+277523,"woodstock, virginia, usa",62
+277530,"winnetka, california, usa",52
+277554,"oxford, michigan, usa",24
+277563,"felton, california, usa",66
+277569,"los osos, california, usa",
+277623,"alamosa, co, usa",54
+277629,"pierre, south dakota, usa",50
+277639,"forsyth, montana, usa",48
+277641,"san francisco, california, usa",50
+277647,"vista, california, usa",
+277689,"tucson, arizona, usa",
+277706,"lancaster, pennsylvania, usa",
+277711,"mannheim, baden-wuerttemberg, germany",34
+277722,"arnold, california, usa",
+277743,"dewitt, new york, usa",
+277744,"springfield, missouri, usa",
+277752,"baton rouge, louisiana, usa",18
+277783,"baton rouge, louisiana, usa",17
+277803,"baton rouge, louisiana, usa",17
+277827,"baton rouge, louisiana, usa",17
+277828,"baton rouge, louisiana, usa",16
+277901,"bath, pennsylvania, usa",40
+277915,"san francisco, california, usa",
+277922,"st. louis, missouri, usa",26
+277928,"grand rapids, michigan, usa",45
+277932,"attleboro, massachusetts, usa",
+277937,"hemet, california, usa",40
+277938,"altoona, iowa, usa",63
+277958,"north royalton, ohio, usa",60
+277959,"st. joseph, michigan, usa",28
+277965,"chula vista, california, usa",
+277987,"sunnyvale, california, usa",56
+278002,"cartersville, georgia, usa",
+278026,"east orange, new jersey, usa",56
+278044,"yaphank, new york, usa",
+278075,"coos bay, oregon, usa",62
+278085,"burnsville, minnesota, usa",27
+278104,"st. louis, missouri, usa",
+278112,"middleburg hts, , usa",70
+278119,"cincinnati, ohio, usa",50
+278137,"san antonio, texas, usa",27
+278144,"storm lake, iowa, usa",48
+278153,"cape canaveralf, florida, usa",61
+278172,"burnaby, british columbia, canada",
+278176,"medan, su, indonesia",21
+278185,"pendleton, oregon, usa",35
+278188,"lake george, new york, usa",34
+278202,"coral springs, florida, usa",
+278218,"canberra, australian capital territory, australia",37
+278221,"oshawa, ontario, canada",32
+278243,"glen ellyn, illinois, usa",46
+278254,"brisol, pennsylvania, usa",26
+278255,"robesonia, pennsylvania, usa",34
+278257,"new orleans, louisiana, usa",41
+278333,"yakima, washington, usa",
+278342,"st. john`s, newfoundland, canada",
+278350,"niwot, colorado, usa",52
+278356,"lakeland, tennessee, usa",57
+278373,"dubbo, new south wales, australia",13
+278390,"elburn, illinois, usa",35
+278418,"omaha, nebraska, usa",
+278422,"new york, new york, usa",32
+278446,"fallon, nevada, usa",49
+278487,"visalia, california, usa",
+278490,"southfield, michigan, usa",
+278506,"springfield, virginia, usa",
+278514,"sandusky, ohio, usa",60
+278535,"oshkosh, wisconsin, usa",
+278541,"ottawa, ontario, canada",
+278552,"royal oak, michigan, usa",26
+278554,"takasaki, gunma, japan",22
+278561,"merrimack, new hampshire, usa",
+278586,"port orchard, washington, usa",63
+278633,"sandy, utah, usa",
+278681,"downers grove, illinois, usa",
+278692,"butler, western australia, australia",26
+278723,"prior lake, minnesota, usa",52
+278781,"lincolnton, north carolina, usa",54
+278798,"stayton, oregon, usa",39
+278800,"canyon country, california, usa",45
+278813,"phoenix, arizona, usa",
+278819,"surfside beach, texas, usa",32
+278843,"pismo beach, california, usa",28
+278851,"dallas, texas, usa",33
